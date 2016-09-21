@@ -1,0 +1,36 @@
+<html>
+	<head>
+		<title>Laboratory</title>
+	</head>
+	<body>
+        <div class="aui-tabs vertical-tabs">
+
+            <ul class="tabs-menu">
+                <li class="menu-item active-tab">
+                    <a href="#laboratory-a">A</a>
+                </li>
+                <li class="menu-item">
+                    <a href="#laboratory-b">B</a>
+                </li>
+                <li class="menu-item">
+                    <a href="#laboratory-c">C</a>
+                </li>
+            </ul>
+
+            <div class="tabs-pane active-pane" id="laboratory-a">
+                <h2>This is tab A</h2>
+                <p>Some text...</p>
+            </div>
+
+            <div class="tabs-pane" id="laboratory-b">
+                <h2>This is tab B</h2>
+                <p>Some text...</p>
+            </div>
+
+            <div class="tabs-pane" id="laboratory-c">
+                <h2>This is tab C</h2>
+                <p>Some text...</p>
+            </div>
+        </div>
+    </body>
+</html>
